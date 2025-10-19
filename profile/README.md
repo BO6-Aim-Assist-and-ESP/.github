@@ -53,18 +53,6 @@
 
 ---
 
-## 📷 Screenshots
-
-<p align="center">
-  <img src="YOUR_SCREENSHOT_1_URL" alt="BO6 Aim Assist ESP Overlay View" width="600" />
-</p>
-
-<p align="center">
-  <img src="YOUR_SCREENSHOT_2_URL" alt="BO6 Aim Assist ESP Settings Panel" width="600" />
-</p>
-
----
-
 ## 🖥️ System Requirements
 
 💻 **Windows System Requirements**  
